@@ -16,7 +16,7 @@ National Cancer Center Japan
 
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6602519955)
 
-- [ORCID](https://orcid.org/0000-0002-7935-6776}{ORCID 0000-0002-7935-6776)
+- [ORCID](https://orcid.org/0000-0002-7935-6776)
 
 - [ResearcherID](http://www.researcherid.com/rid/A-7612-2014)
 

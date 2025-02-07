@@ -48,8 +48,9 @@ National Cancer Center Japan
 Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 
 ### CAREER
-
-- Div. of Bioinformatics, Research Inst. **Project Researcher** at the National Cancer Center Japan, Tokyo, Japan, since 2017.
+- AI Research Institute, **Chief Researcher** at the The National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan, since 2020.
+ 
+- Div. of Bioinformatics, Research Inst. **Specially Appointed Researcher** at the National Cancer Center Japan, Tokyo, Japan, since 2017.
 
 - Dept. of Physics, The University of Tokyo, Japan. **Project Researcher** 2016-2020
 

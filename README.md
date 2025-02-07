@@ -5,7 +5,7 @@
 
 e-mail: nagornov.yuri@gmail.com
  
-Project Researcher at the [Division of Bioinformatics](https://www.ncc.go.jp/en/ri/department/bioinformatics/member/index.html), 
+Specially Appointed Researcher at the [Division of Bioinformatics](https://www.ncc.go.jp/en/ri/department/bioinformatics/member/index.html), 
 National Cancer Center Japan
 
 ### Links

@@ -9,7 +9,7 @@ National Cancer Center Japan
 
 ### Content
 \\
-[In a brief](#brief)  \\
+[In A Brief](#brief)  \\
 [Software](#software)  \\
 [Career](#career)  \\
 [Education](#edu)  \\

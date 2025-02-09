@@ -8,16 +8,16 @@ National Cancer Center Japan
 
 
 ### Content
-
-[In a brief](#brief)
-[Software](#software)
-[Career](#career)
-[Education](#edu)
-[Papers](#pubs)
-[Books](#books)
-[Patents](#patents)
-[Conferences](#conf)
-[Projects](#projects)
+\\
+[In a brief](#brief)  \\
+[Software](#software)  \\
+[Career](#career)  \\
+[Education](#edu)  \\
+[Papers](#pubs)  \\
+[Books](#books)  \\
+[Patents](#patents)  \\
+[Conferences](#conf)  \\
+[Projects](#projects)  \\
 
 ### Links
 

@@ -59,7 +59,7 @@ Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 - Ulyanovsk State University, Russia. **Assistant Professor, Associate Professor** 2002-2011
  
 
-### Publications
+### Publications {#pubs}
 
 #### ARTICLES
 

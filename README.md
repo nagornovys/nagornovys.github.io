@@ -8,6 +8,19 @@ e-mail: nagornov.yuri@gmail.com
 Specially Appointed Researcher at the [Division of Bioinformatics](https://www.ncc.go.jp/en/ri/department/bioinformatics/member/index.html), 
 National Cancer Center Japan
 
+
+### Contents
+
+[In a brief](#brief)
+[Software](#software)
+[Career](#career)
+[Education](#edu)
+[Papers](#pubs)
+[Books](#books)
+[Patents](#patents)
+[Conferences](#conf)
+[Projects](#projects)
+
 ### Links
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=lANhRjYAAAAJ&view_op=list_works&sortby=pubdate)
@@ -20,7 +33,7 @@ National Cancer Center Japan
 
 - [ResearcherID](http://www.researcherid.com/rid/A-7612-2014)
 
-
+<a id="brief"></a>
 ### IN A BRIEF
 
 
@@ -34,7 +47,7 @@ National Cancer Center Japan
 
 - **Reviewer** in Elsevier journals the field of data science: Data-In-Brief, Physica A, etc.
 
-
+<a id="software"></a>
 ### Software
 
 - [MaxWiK](https://cran.r-project.org/web/packages/MaxWiK/index.html) - Machine Learning Method Based on Isolation Kernel Mean Embedding.
@@ -43,10 +56,12 @@ National Cancer Center Japan
 
 - [AtomREM](https://github.com/YuriNagornov/AtomREM) - Non-empirical seeker of the minimum energy escape paths on many-dimensional potential landscapes without coarse graining.
 
+<a id="edu"></a>
 ### EDUCATION
 
 Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 
+<a id="career"></a>
 ### CAREER
 - AI Research Institute, **Chief Researcher** at the The National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan, since 2020.
  
@@ -59,7 +74,8 @@ Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 - Ulyanovsk State University, Russia. **Assistant Professor, Associate Professor** 2002-2011
  
 
-### Publications {#pubs}
+<a id="pubs"></a>
+### Publications 
 
 #### ARTICLES
 
@@ -190,7 +206,7 @@ B. M. Kostishko, I. P. Puzov, Yuri S. Nagornov, Stabilization of Luminous Proper
  [doi](https://link.springer.com/article/10.1134/1.1262790), 
  [paper](https://drive.google.com/file/d/1SPg1mju_63o6Q6IRC782jfFzGkFJqVvg/view?usp=drive_link)
 
-
+<a id="books"></a>
 #### BOOKS
 
 
@@ -206,7 +222,7 @@ Yuri S. Nagornov, Modeling of betavoltaics elements on isotope Nickel-63, monogr
 [link](https://elibrary.ru/item.asp?id=20286798)
 
 
-
+<a id="patents"></a>
 #### PATENTS
 
 
@@ -226,7 +242,7 @@ Yuri S. Nagornov, Combined accumulator element of photo- and betavoltaics on the
 [link](https://pubchem.ncbi.nlm.nih.gov/patent/RU-2605784-C1)
 
 
-
+<a id="conf"></a>
 #### CONFERENCES
 
  2024 - oral presentation: Iurii Nagornov “Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel”, Iurii Nagornov, 
@@ -281,7 +297,7 @@ Proceedings of the 36th Annual Conference of the Japanese Society for Artificial
 
  1999 - 2012: Yuri S. Nagornov Attendance with oral presentation and as invited presenter in domestic Russian conferences like "Silicon-2007, 2009, 2010", "Nanophotonics - 2002", "Radiation physics of solid state" (2001, 2007, 2010),  the conference of young scientists (Togliatti-2012) and many others with poster presentations.
 
-
+<a id="projects"></a>
 ### PROJECTS
   
   Period:   2017-2026

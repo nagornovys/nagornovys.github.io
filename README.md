@@ -80,6 +80,7 @@ Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 Iurii Nagornov 'Cross-Recurrence Plots and Straightforward Hilbert Representation of Isolation Kernel',
 'Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries' in Springer Proceedings in Complexity.
 Springer, Cham. 2025 (accepted), 
+[doi](https://link.springer.com/book/9783031910616?srsltid=AfmBOoprtTOovq1sQyshmpK6cimcTfghCjEiUqhxLOr-CPFS_2kXIOl6),
 [accepted paper](https://drive.google.com/file/d/1Nuj702kjU1b2uMVtYCpjCmhm-74g4PSf/view?usp=sharing).
 
 Iurii Nagornov “Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel”, Iurii Nagornov, 

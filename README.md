@@ -1,11 +1,6 @@
 
 # Nagornov Yuri / Iurii
 
-e-mail: nagornov.yuri@gmail.com
- 
-Specially Appointed Researcher at the [Division of Bioinformatics](https://www.ncc.go.jp/en/ri/department/bioinformatics/member/index.html), 
-National Cancer Center Japan
-
 
 ### Content
 \\

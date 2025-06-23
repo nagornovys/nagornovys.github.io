@@ -31,7 +31,7 @@ National Cancer Center Japan
 ### IN A BRIEF
 
 
-- **Publications:** ~40 international papers, ~90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian).
+-  **Publications:** ~40 international papers, ~90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian).
 
 - **Editor-in-Chief** of the conference proceedings "Interdisciplinary research in the field of mathematical modeling and informatics" 
 [1-2013](https://elibrary.ru/item.asp?id=20212097&selid=20742196),
@@ -217,45 +217,45 @@ B. M. Kostishko, I. P. Puzov, Yuri S. Nagornov, Stabilization of Luminous Proper
 <a id="books"></a>
 #### MONOGRAPHS, TEXTBOOKS AND TEACHING AIDS
 
-**Yu.S. Nagornov**, Program "A simple mechanical model of an erythrocyte", Certificate of registration of a computer program RU 2017610364, 10.01.2017. Application No. 2016619299 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39358767).
+ Yu.S. Nagornov , Program "A simple mechanical model of an erythrocyte", Certificate of registration of a computer program RU 2017610364, 10.01.2017. Application No. 2016619299 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39358767).
 
-**Yu.S. Nagornov**, Program for clustering signals of acoustic emission, Certificate of registration of a computer program RU 2017612279, 20.02.2017. Application No. 2016619260 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39360830).
+ Yu.S. Nagornov , Program for clustering signals of acoustic emission, Certificate of registration of a computer program RU 2017612279, 20.02.2017. Application No. 2016619260 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39360830).
 
-**Yu.S. Nagornov**, Development of technology and software for measuring intracellular pressure based on atomic force microscopy data, Report No. 14.574.21.0025 dated 17.06.2014. Ministry of Education and Science of the Russian Federation, 2015 (in Russian). [link](https://www.elibrary.ru/item.asp?id=25647937).
+ Yu.S. Nagornov , Development of technology and software for measuring intracellular pressure based on atomic force microscopy data, Report No. 14.574.21.0025 dated 17.06.2014. Ministry of Education and Science of the Russian Federation, 2015 (in Russian). [link](https://www.elibrary.ru/item.asp?id=25647937).
 
-**Yu.S. Nagornov**, Modeling elements of betavoltaics on nickel-63 isotope, Ulyanovsk, 2015 (in Russian). [link](https://www.elibrary.ru/item.asp?id=23070588).
+ Yu.S. Nagornov , Modeling elements of betavoltaics on nickel-63 isotope, Ulyanovsk, 2015 (in Russian). [link](https://www.elibrary.ru/item.asp?id=23070588).
 
-**Yu.S. Nagornov**, Modeling of betavoltaics elements on isotope Nickel-63, monograph, Ulyanovsk: SIMJET, 102 p, 2015 (in Russian). [link](https://elibrary.ru/item.asp?id=23070588).
+ Yu.S. Nagornov , Modeling of betavoltaics elements on isotope Nickel-63, monograph, Ulyanovsk: SIMJET, 102 p, 2015 (in Russian). [link](https://elibrary.ru/item.asp?id=23070588).
 
-**Yu.S. Nagornov**, Development of technology and software for measuring intracellular pressure based on atomic force microscopy data, Report No. 14.574.21.0025 dated 17.06.2014. Ministry of Education and Science of the Russian Federation, 2014 (in Russian). [link](https://www.elibrary.ru/item.asp?id=25647965).
+ Yu.S. Nagornov , Development of technology and software for measuring intracellular pressure based on atomic force microscopy data, Report No. 14.574.21.0025 dated 17.06.2014. Ministry of Education and Science of the Russian Federation, 2014 (in Russian). [link](https://www.elibrary.ru/item.asp?id=25647965).
 
-**Yu.S. Nagornov**, Modeling elastic properties of blood cells, monograph, Saarbrucken: LAP Lambert Academic Publishing, 2013. 108 p (in Russian). [link](https://elibrary.ru/item.asp?id=20392265).
+ Yu.S. Nagornov , Modeling elastic properties of blood cells, monograph, Saarbrucken: LAP Lambert Academic Publishing, 2013. 108 p (in Russian). [link](https://elibrary.ru/item.asp?id=20392265).
 
-**Yu.S. Nagornov**, Radiation-stimulated current sources, monograph, Saarbrücken, 2013 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20286794).
+ Yu.S. Nagornov , Radiation-stimulated current sources, monograph, Saarbrücken, 2013 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20286794).
 
-**Yu.S. Nagornov**, The modeling techniques of atomic and radiation-stimulated processes in porous silicon, monograph, Togliatti: [TSU, 2012](https://elibrary.ru/item.asp?id=20286806), 175 p. (in Russian).
+ Yu.S. Nagornov , The modeling techniques of atomic and radiation-stimulated processes in porous silicon, monograph, Togliatti: [TSU, 2012](https://elibrary.ru/item.asp?id=20286806), 175 p. (in Russian).
 
-**Yu.S. Nagornov**, Self-organization of nanocrystals in the carbonized porous silicon, monograph, Saarbrucken: [LAP Lambert Academic Publishing, 165 p, 2012](https://elibrary.ru/item.asp?id=20286798). (in Russian)
+ Yu.S. Nagornov , Self-organization of nanocrystals in the carbonized porous silicon, monograph, Saarbrucken: [LAP Lambert Academic Publishing, 165 p, 2012](https://elibrary.ru/item.asp?id=20286798). (in Russian)
 
-**Yu.S. Nagornov**, Modern aspects of the application of the betavoltaic effect, Ulyanovsk, 2012 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20223481).
+ Yu.S. Nagornov , Modern aspects of the application of the betavoltaic effect, Ulyanovsk, 2012 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20223481).
 
-**Yu.S. Nagornov**, Study of biological objects using atomic force microscopy, tutorial, Tolyatti, 2012 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20286804).
+ Yu.S. Nagornov , Study of biological objects using atomic force microscopy, tutorial, Tolyatti, 2012 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20286804).
 
-A. I. Kuseelman, Yu. N. Basyrava, V. V. Svetukhin, B. B. Kostishko, **Yu.S. Nagornov**, I. Yu. Matveeva, M. M. Dzhandzhgava, Nanotechnology in pediatrics: prospects for the use of atomic force microscopy for diagnostics, Questions of diagnostics in pediatrics, 2010. Vol. 2, No. 1, pp. 5-8 (in Russian). [link](https://www.elibrary.ru/contents.asp?id=33571781).
+A. I. Kuseelman, Yu. N. Basyrava, V. V. Svetukhin, B. B. Kostishko,  Yu.S. Nagornov , I. Yu. Matveeva, M. M. Dzhandzhgava, Nanotechnology in pediatrics: prospects for the use of atomic force microscopy for diagnostics, Questions of diagnostics in pediatrics, 2010. Vol. 2, No. 1, pp. 5-8 (in Russian). [link](https://www.elibrary.ru/contents.asp?id=33571781).
 
-V. V. Svetukhin, I. V. Razumovskaya, S. V. Bulyarsky, I. O. Zolotovsky, **Yu.S. Nagornov**, S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, A. V. Zhukov, Introduction to nanotechnology. Module "Physics", methodological guide for an elective course for teachers of grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=22849400).
+V. V. Svetukhin, I. V. Razumovskaya, S. V. Bulyarsky, I. O. Zolotovsky,  Yu.S. Nagornov , S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, A. V. Zhukov, Introduction to nanotechnology. Module "Physics", methodological guide for an elective course for teachers of grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=22849400).
 
-I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zolotovsky, **Yu.S. Nagornov**, S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, Introduction to nanotechnology, educational and methodological guide for the elective course in physics for teachers of grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058458).
+I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zolotovsky,  Yu.S. Nagornov , S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, Introduction to nanotechnology, educational and methodological guide for the elective course in physics for teachers of grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058458).
 
-I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zolotovsky, **Yu.S. Nagornov**, S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, L. V. Vostretsova, Introduction to nanotechnology. Elective course in the physics program, tutorial for grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058454).
+I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zolotovsky,  Yu.S. Nagornov , S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, L. V. Vostretsova, Introduction to nanotechnology. Elective course in the physics program, tutorial for grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058454).
 
-**Yu.S. Nagornov**, Hardware means of computing technology: electronic tutorial course, Ulyanovsk, 2007 (in Russian). [link](https://www.elibrary.ru/item.asp?id=24286607).
+ Yu.S. Nagornov , Hardware means of computing technology: electronic tutorial course, Ulyanovsk, 2007 (in Russian). [link](https://www.elibrary.ru/item.asp?id=24286607).
 
-**Yu.S. Nagornov**, Methodological manual for laboratory work on the course "Hardware means of computing technology", educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058451).
+ Yu.S. Nagornov , Methodological manual for laboratory work on the course "Hardware means of computing technology", educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058451).
 
-**Yu.S. Nagornov**, Principles of operation and architecture of microprocessors Intel 8080/8085 and x86 family, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058450).
+ Yu.S. Nagornov , Principles of operation and architecture of microprocessors Intel 8080/8085 and x86 family, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058450).
 
-**Yu.S. Nagornov**, Organization of mathematical operations, logical elements, and schemes, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058452).
+ Yu.S. Nagornov , Organization of mathematical operations, logical elements, and schemes, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058452).
 
 ----------------------
 

@@ -31,11 +31,12 @@ National Cancer Center Japan
 
 - [ResearcherID](http://www.researcherid.com/rid/A-7612-2014)
 
+- [elibrary.ru](https://elibrary.ru/author_items.asp?authorid=40170&show_refs=1&pubrole=100&pubcat=risc)
 <a id="brief"></a>
 ### IN A BRIEF
 
 
-- **Publications:** ~40 papers, 5 patents, 4 books.
+- **Publications:** ~40 international papers, ~90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian).
 
 - **Scientific projects:** 8 - Leader, 5 - Executive head, 7 - Researcher. 
 

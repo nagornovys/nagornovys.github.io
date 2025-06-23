@@ -213,13 +213,14 @@ B. M. Kostishko, I. P. Puzov, Yuri S. Nagornov, Stabilization of Luminous Proper
 Yuri S. Nagornov, Modeling of betavoltaics elements on isotope Nickel-63, monograph, Ulyanovsk: SIMJET, 102 p, 2015 (in Russian).
 [link](https://elibrary.ru/item.asp?id=23070588)
 
- 2013} Yuri S. Nagornov, Modeling elastic properties of blood cells, monograph, Saarbrucken: LAP Lambert Academic Publishing, 2013. 108 p (in Russian). [link](https://elibrary.ru/item.asp?id=20392265)
+Yuri S. Nagornov, Modeling elastic properties of blood cells, monograph, Saarbrucken: LAP Lambert Academic Publishing, 2013. 108 p (in Russian). [link](https://elibrary.ru/item.asp?id=20392265)
 
- 2012} Yuri S. Nagornov, The modeling techniques of atomic and radiation- stimulated processes in porous silicon, monograph, Togliatti: TSU, 2012. 175 p, 2012 (in Russian). 
+Yuri S. Nagornov, The modeling techniques of atomic and radiation- stimulated processes in porous silicon, monograph, Togliatti: TSU, 2012. 175 p, 2012 (in Russian). 
 [link](https://elibrary.ru/item.asp?id=20286806)
 
- 2012} Yuri S. Nagornov, Self-organization of nanocrystals in the carbonized porous silicon, monograph, Saarbrucken: LAP Lambert Academic Publishing, 165 p, 2012 (in Russian). 
+Yuri S. Nagornov, Self-organization of nanocrystals in the carbonized porous silicon, monograph, Saarbrucken: LAP Lambert Academic Publishing, 165 p, 2012 (in Russian). 
 [link](https://elibrary.ru/item.asp?id=20286798)
+
 
 
 <a id="patents"></a>

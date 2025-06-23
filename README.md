@@ -14,7 +14,7 @@ National Cancer Center Japan
 [Career](#career)  \\
 [Education](#edu)  \\
 [Papers](#pubs)  \\
-[Books](#books)  \\
+[Monographs, textbooks and teaching aids](#books)  \\
 [Patents](#patents)  \\
 [Conferences](#conf)  \\
 [Projects](#projects)  \\
@@ -206,7 +206,7 @@ B. M. Kostishko, I. P. Puzov, Yuri S. Nagornov, Stabilization of Luminous Proper
  [paper](https://drive.google.com/file/d/1SPg1mju_63o6Q6IRC782jfFzGkFJqVvg/view?usp=drive_link)
 
 <a id="books"></a>
-#### BOOKS
+#### MONOGRAPHS, TEXTBOOKS AND TEACHING AIDS
 
 
 Yuri S. Nagornov, Modeling of betavoltaics elements on isotope Nickel-63, monograph, Ulyanovsk: SIMJET, 102 p, 2015 (in Russian).

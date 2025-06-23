@@ -31,12 +31,21 @@ National Cancer Center Japan
 
 - [ResearcherID](http://www.researcherid.com/rid/A-7612-2014)
 
-- [elibrary.ru](https://elibrary.ru/author_items.asp?authorid=40170&show_refs=1&pubrole=100&pubcat=risc)
+- [Elibrary](https://elibrary.ru/author_items.asp?authorid=40170&show_refs=1&pubrole=100&pubcat=risc)
 <a id="brief"></a>
 ### IN A BRIEF
 
 
 - **Publications:** ~40 international papers, ~90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian).
+
+- **Editor-in-Chief** of the conference proceedings "Interdisciplinary research in the field of mathematical modeling and informatics" 
+[1-2013](https://elibrary.ru/item.asp?id=20212097&selid=20742196),
+[2-2013](https://elibrary.ru/item.asp?id=20305695&selid=20368197),
+[3-2013](https://elibrary.ru/item.asp?id=21328166),
+[4-2013](https://elibrary.ru/item.asp?id=22525727&selid=22525767),
+[5-2013](https://elibrary.ru/item.asp?id=22894690&selid=22920130),
+[6-2013](https://elibrary.ru/item.asp?id=23532556&selid=23532612), 
+[7-2016](https://elibrary.ru/item.asp?id=25678343&selid=25678405)
 
 - **Scientific projects:** 8 - Leader, 5 - Executive head, 7 - Researcher. 
 

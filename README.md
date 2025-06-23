@@ -47,15 +47,17 @@ National Cancer Center Japan
 [6-2013](https://elibrary.ru/item.asp?id=23532556&selid=23532612), 
 [7-2016](https://elibrary.ru/item.asp?id=25678343&selid=25678405)
 
-- **Scientific projects:** 8 - Leader, 5 - Executive head, 7 - Researcher.
-
 - **Reviewer** in Elsevier journals: Data-In-Brief, Physica A.
 
-- **Membership:** Physical Society of Japan (67216H); Japanese Cancer Association (ID 54333).
+- **Membership:** Physical Society of Japan; Japanese Cancer Association.
 
 - **Program committee** of [International symposium on mathematical and computational oncology](https://ismco.net/index.php/program-committee/) 
 
 - **Reviewer** in Elsevier journals the field of data science: Data-In-Brief, Physica A, etc.
+  
+- **Scientific projects:** 8 - Leader, 5 - Executive head, 7 - Researcher.
+
+- **Expert of Russian Academy of Sciences** [2016-01-5839-2987](https://expert.ras.ru).
 
 <a id="software"></a>
 ### Software

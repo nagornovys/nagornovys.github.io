@@ -62,7 +62,7 @@ Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 
 <a id="career"></a>
 ### CAREER
-- AI Research Institute, **Chief Researcher** at the The National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan, since 2020.
+- AI Research Institute, **Chief Researcher** at the The National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan, 2020-2025.
  
 - Div. of Bioinformatics, Research Inst. **Specially Appointed Researcher** at the National Cancer Center Japan, Tokyo, Japan, since 2017.
 

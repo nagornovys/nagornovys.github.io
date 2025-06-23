@@ -20,18 +20,12 @@ National Cancer Center Japan
 [Projects](#projects)  \\
 
 ### Links
-
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=lANhRjYAAAAJ&view_op=list_works&sortby=pubdate)
-
-- [Web of Science](https://www.webofscience.com/wos/author/record/A-7612-2014)
-
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6602519955)
-
-- [ORCID](https://orcid.org/0000-0002-7935-6776)
-
-- [ResearcherID](http://www.researcherid.com/rid/A-7612-2014)
-
-- [Elibrary](https://elibrary.ru/author_items.asp?authorid=40170&show_refs=1&pubrole=100&pubcat=risc)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=lANhRjYAAAAJ&view_op=list_works&sortby=pubdate)
+[Web of Science](https://www.webofscience.com/wos/author/record/A-7612-2014)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=6602519955)
+[ORCID](https://orcid.org/0000-0002-7935-6776)
+[ResearcherID](http://www.researcherid.com/rid/A-7612-2014)
+[Elibrary](https://elibrary.ru/author_items.asp?authorid=40170&show_refs=1&pubrole=100&pubcat=risc)
 <a id="brief"></a>
 ### IN A BRIEF
 

@@ -81,6 +81,8 @@ Ph.D. in Physics, 2001, Ulyanovsk State University, Russia
 
 #### ARTICLES
 
+Iurii Nagornov , Eisaku Furukawa , Momoko Nagai, Mamoru Kato, Shigehiro Yagishita , Tatsuhiro Shibata, 	tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients (submitted).[bioRxive](https://www.biorxiv.org/)
+
 Iurii Nagornov 'Cross-Recurrence Plots and Straightforward Hilbert Representation of Isolation Kernel',
 'Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries' in Springer Proceedings in Complexity.
 Springer, Cham. 2025 (accepted), 

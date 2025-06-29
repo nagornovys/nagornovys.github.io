@@ -42,8 +42,6 @@
 - **Membership:** Physical Society of Japan; Japanese Cancer Association.
 
 - **Program committee** of [International symposium on mathematical and computational oncology](https://ismco.net/index.php/program-committee/) 
-
-- **Reviewer** in Elsevier journals the field of data science: Data-In-Brief, Physica A, etc.
   
 - **Scientific projects:** 8 - Leader, 5 - Executive head, 7 - Researcher.
 

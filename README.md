@@ -31,10 +31,10 @@
 - **Editor-in-Chief** of the conference proceedings "Interdisciplinary research in the field of mathematical modeling and informatics" 
 [1-2013](https://elibrary.ru/item.asp?id=20212097&selid=20742196),
 [2-2013](https://elibrary.ru/item.asp?id=20305695&selid=20368197),
-[3-2013](https://elibrary.ru/item.asp?id=21328166),
-[4-2013](https://elibrary.ru/item.asp?id=22525727&selid=22525767),
-[5-2013](https://elibrary.ru/item.asp?id=22894690&selid=22920130),
-[6-2013](https://elibrary.ru/item.asp?id=23532556&selid=23532612), 
+[3-2014](https://elibrary.ru/item.asp?id=21328166),
+[4-2014](https://elibrary.ru/item.asp?id=22525727&selid=22525767),
+[5-2015](https://elibrary.ru/item.asp?id=22894690&selid=22920130),
+[6-2015](https://elibrary.ru/item.asp?id=23532556&selid=23532612), 
 [7-2016](https://elibrary.ru/item.asp?id=25678343&selid=25678405)
 
 - **Reviewer** in Elsevier journals: Data-In-Brief, Physica A.

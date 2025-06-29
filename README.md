@@ -54,7 +54,7 @@
 
 - [MaxWiK](https://cran.r-project.org/web/packages/MaxWiK/index.html) - Machine Learning Method Based on Isolation Kernel Mean Embedding.
 
-- [tugMedi](https://github.com/tugHall/tugMedi_open) - (*tu*mor-*g*enome *Medi*cal) simulator: a simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients.
+- [tugMedi](https://github.com/tugHall/tugMedi_open) - (**tu**mor-**g**enome **_Medi_**cal) simulator: a simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients.
 
 - [AtomREM](https://github.com/YuriNagornov/AtomREM) - Non-empirical seeker of the minimum energy escape paths on many-dimensional potential landscapes without coarse graining.
 

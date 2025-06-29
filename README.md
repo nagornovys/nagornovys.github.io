@@ -54,7 +54,7 @@
 
 - [MaxWiK](https://cran.r-project.org/web/packages/MaxWiK/index.html) - Machine Learning Method Based on Isolation Kernel Mean Embedding.
 
-- [tugHall](https://github.com/nagornovys/Cancer_cell_evolution) - a simulator of cancer cell evolution based on the hallmarks of cancer and tumor related genes.
+- [tugMedi](https://github.com/tugHall/tugMedi_open) - a simulator of cancer cell evolution based on the hallmarks of cancer and tumor related genes.
 
 - [AtomREM](https://github.com/YuriNagornov/AtomREM) - Non-empirical seeker of the minimum energy escape paths on many-dimensional potential landscapes without coarse graining.
 

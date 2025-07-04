@@ -26,9 +26,9 @@
 ### IN A BRIEF
 
 
--  **Publications:** ~40 international papers, ~90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian).
+-  **Publications:** more 40 international papers (including papers in the Journals with impact factor more than 5), more 90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian)
 
-- **Editor-in-Chief** of the conference proceedings "Interdisciplinary research in the field of mathematical modeling and informatics" 
+- **Editor-in-Chief** of the conference proceedings "Interdisciplinary research in the field of mathematical modeling and informatics" (Togliatti, Russia" in 2013-2016)
 [1-2013](https://elibrary.ru/item.asp?id=20212097&selid=20742196),
 [2-2013](https://elibrary.ru/item.asp?id=20305695&selid=20368197),
 [3-2014](https://elibrary.ru/item.asp?id=21328166),
@@ -41,11 +41,13 @@
 
 - **Membership:** Physical Society of Japan; Japanese Cancer Association.
 
-- **Program committee** of [International symposium on mathematical and computational oncology](https://ismco.net/index.php/program-committee/) 
+- **Program committee** of [International symposium on mathematical and computational oncology](https://ismco.net/index.php/program-committee/) (2021, USA)
   
-- **Scientific projects:** 8 - Leader, 5 - Executive head, 7 - Researcher.
+- **Scientific projects:** Leader of 6 National projects (Russia, 2012-2023), 1 of Innovative National project (Russia, 2014-2016) and 1 of Russian Foundation of Basic Research project (Russia 2010-2012), Executive Head of 5 National projects (Russia, 2007-2011), and Key Researcher in many others.
 
-- **Expert of Russian Academy of Sciences** [2016-01-5839-2987](https://expert.ras.ru).
+- **Expert of Russian Academy of Sciences** in the field of numerical calculations and high performance computation[2016-01-5839-2987](https://expert.ras.ru).
+
+- **Popularizer** of Science on a regional TV and media (Ulyanovsk, Togliatti, Russia, 2009-2013).
 
 <a id="software"></a>
 ### Software

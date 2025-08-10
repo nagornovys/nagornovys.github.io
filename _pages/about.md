@@ -1,56 +1,153 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Resume"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+#### RESEARCH INTERESTS
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- Machine Learning and Kernel Methods
+    
+- Cancer Evolution and Genomic Simulation
+    
+- High-Performance Computing
+    
+- Computational Oncology and Bioinformatics
+    
+- Stochastic Modeling and Numerical Methods
+    
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+---
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+#### CURRENT POSITIONS
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Chief Researcher**, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan (2020–2025)  
+**Specially Appointed Researcher**, National Cancer Center Japan, Division of Bioinformatics (2017–present)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<a id="edu"></a>
 
-**Markdown generator**
+#### EDUCATION
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Ph.D. in Physics**, Ulyanovsk State University, Russia, 2002 (1998-2001)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Specialist in Physics**, Ulyanovsk State University, Russia, 1998 (1993-1998)
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+---
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+#### SELECTED PUBLICATIONS
+
+- **In total:** more 40 international papers (including papers in the Journals with impact factor more than 5), 
+more 90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian)
+
+
+- Nagornov, Iu., et al. _tugMedi: a simulator of cancer-cell evolution for personalized medicine  based on the genomic data of patients._ 
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
+    
+- Nagornov, Y., _Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel_. 
+IntelliSys 2024. Lecture Notes in Networks and Systems, vol 1067, pp. 243-258. Springer, Cham. 
+[doi](https://link.springer.com/chapter/10.1007/978-3-031-66431-1_16), 
+    
+- Nagornov, Iu., _Overfitting Problem in the Approximate Bayesian Computation Method Based on Maxima Weighted Isolation Kernel_. 
+Springer LNCS, 2022. [doi](https://doi.org/10.1007/978-3-031-29168-5_18)
+    
+- Nagornov, Iu., Kato, M., _tugHall: a simulator of cancer cell evolution based on the hallmarks of cancer and tumor related genes._ 
+Bioinformatics, Vol. 36, N 11, June 2020, pp. 3597–3599. [doi, open access](https://doi.org/10.1093/bioinformatics/btaa182).
+    
+- Nagornov, Yu.S., Akashi, R., _AtomREM: Non-empirical seeker of the minimum energy escape paths on many-dimensional potential landscapes without coarse graining._ 
+Computer Physics Communications, Vol. 254, September 2020, p.107260, 
+[doi](https://doi.org/10.1016/j.cpc.2020.107260)
+
+---
+
+<a id="software"></a>
+
+#### SOFTWARE
+
+- [MaxWiK](https://cran.r-project.org/web/packages/MaxWiK/index.html) - Machine Learning Method Based on Isolation Kernel Mean Embedding.
+
+- [tugMedi](https://github.com/tugHall/tugMedi_open) - (**tu**mor-**g**enome **Medi**cal) simulator: a realistic simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients.
+
+- [AtomREM](https://github.com/YuriNagornov/AtomREM) - Non-empirical seeker of the minimum energy escape paths on many-dimensional potential landscapes without coarse graining.
+  
+---
+
+#### RESEARCH PROJECTS (LEAD / KEY INVESTIGATOR)
+
+- _Personalized Oncology & Genomic Modeling_, National Cancer Cneter Japan, 2017–2026
+    
+- _Extreme Condition Phase Transitions_, University of Tokyo, 2016–2020
+    
+- _Intracellular Pressure via AFM_, Russian Ministry of Education, 2014–2016
+
+- _Young Scientists Mobility_,  Russian Ministry of Education, 2012-2013
+
+---
+
+#### GRANTS & AWARDS
+
+- Principal Investigator, 6 Russian national projects (2012–2013)
+
+- Principal Investigator, Innovative National project (Russia, 2014-2016)
+
+- Principal Investigator, Russian Foundation of Basic Research project (Russia 2010-2012)
+
+- Executive Head of 5 National projects (Russia, 2007-2011)
+
+- Expert of Russian Academy of Sciences in numerical modeling (since 2016)
+    
+- Key Investigator, Japanese national computational grant [hp180184]
+
+- Key Investigator, National Cancer Center Japan
+
+
+---
+
+#### INTERNATIONAL ACTIVITIES
+
+- **Reviewer**: _Physica A_, _Data in Brief_ (Elsevier)
+    
+- **Member**: Physical Society of Japan, Japanese Cancer Association
+    
+- **Oral presentations**: IntelliSys 2024, JSAI 2022, ISMCO 2020, APS 2019
+
+- **Editor-in-Chief** of the conference proceedings "Interdisciplinary research in the field of mathematical modeling and informatics" (Togliatti, Russia" in 2013-2016)
+[1-2013](https://elibrary.ru/item.asp?id=20212097&selid=20742196),
+[2-2013](https://elibrary.ru/item.asp?id=20305695&selid=20368197),
+[3-2014](https://elibrary.ru/item.asp?id=21328166),
+[4-2014](https://elibrary.ru/item.asp?id=22525727&selid=22525767),
+[5-2015](https://elibrary.ru/item.asp?id=22894690&selid=22920130),
+[6-2015](https://elibrary.ru/item.asp?id=23532556&selid=23532612), 
+[7-2016](https://elibrary.ru/item.asp?id=25678343&selid=25678405)
+
+- **Program committee** of [International symposium on mathematical and computational oncology](https://ismco.net/index.php/program-committee/) (2021, USA)
+
+- **Popularizer** of Science on a regional TV and media (Ulyanovsk, Togliatti, Russia, 2009-2013).
+
+---
+
+#### TEACHING & MENTORSHIP
+
+- Supervised undergraduate research (Russia, 2002–2012)
+    
+- Developed curriculum materials in nanotechnology and computation (Russia, 2007–2016)
+    
+- Supervised postgraduate research (Russia, 2007–2014)
+    
+
+---
+
+#### LANGUAGES & SKILLS
+
+- Languages: Russian (native), English (fluent), Japanese (beginner)
+    
+- Programming: Python, R, C++, Fortran, Bash
+    
+- Platforms: Linux, HPC clusters, GitHub, LaTeX
+
+--- 

@@ -32,14 +32,14 @@ author:
   email            : "nagornov.yuri@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "https://elibrary.ru/author_items.asp?authorid=40170&show_refs=1&pubrole=100&pubcat=risc"
+  arxiv            : "https://arxiv.org/abs/2201.12745"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lANhRjYAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7935-6776"
   semantic         : # URL
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # 
   researchgate     : "http://www.researcherid.com/rid/A-7612-2014"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=6602519955"
 

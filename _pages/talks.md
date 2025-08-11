@@ -1,6 +1,6 @@
 ---
-permalink: /talks/
 title: "Projects"
+permalink: /talks/
 ---
 
   - **Period:** 2017-2026  

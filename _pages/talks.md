@@ -1,5 +1,8 @@
-## PROJECTS
-  
+---
+title: "Projects"
+permalink: /talks/
+---
+
   - **Period:** 2017-2026  
   **Topic:** [Cancer-cell evolution and tumor heterogeneity](https://www.ncc.go.jp/en/ri/division/bioinformatics/project/index.html#b)  
   **Role:** Key Investigator  
@@ -74,3 +77,4 @@
   **Topic:** Modeling, creation and study of radiation-stimulated supply. 08-08-99068-R_ofi of Russian Foundation of Basic Research  
   **Role:** Executive head  
   **Organization:** Ulyanovsk State University, Ulyanovsk, Russia  
+

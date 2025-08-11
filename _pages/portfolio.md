@@ -1,4 +1,7 @@
-## CAREER
+---
+title: "Career"
+permalink: /portfolio/
+---
 
 - AI Research Institute, **Chief Researcher** at the The National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan, 2020-2025.
  
@@ -9,3 +12,4 @@
 - Togliatti State University, Russia. **Principal Investigator** 2012-2016
 
 - Ulyanovsk State University, Russia. **Assistant Professor, Associate Professor** 2002-2011
+ 

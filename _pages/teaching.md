@@ -1,7 +1,10 @@
-## PATENTS
+---
+title: "Patents"
+permalink: /teaching/
+---
 
 Kato M, Nagornov Iu., Furukawa E. 'Pharmacokinetics prediction program'. 
-National Cancer Center Japan (submitted in August, 2025).
+National Cancer Center Japan (submitted August 2025).
 
 Voronova E.A., Pakhomova R.A., Nagornov Yu.S., Kochetova L.V., Vinnik Yu.S. Method for predicting the hepatic failure in mechanical jaundice in an experiment, RU 2631596 (13) C1, priority: 11.10.2016, publ. date: 25.09.2017. 
 [link](https://patents.google.com/patent/RU2631596C1/en)

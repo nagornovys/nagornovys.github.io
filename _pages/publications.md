@@ -1,12 +1,17 @@
-### Publications 
+---
+permalink: /publications/
+title: "Publications"
+---
 
-[Papers](#pubs)  \\
-[Monographs, textbooks and teaching aids](#books)  \\
-[Conferences](#conf)  \\
+<a id="cont"></a>
+
+[Articles](#pubs) &emsp; &emsp; &emsp;
+[Monographs, textbooks and teaching aids](#books) &emsp; &emsp; &emsp;
+[Conferences](#conf)  
 
 <a id="pubs"></a>
 
-#### PAPERS
+## ARTICLES
 
 Iurii Nagornov , Eisaku Furukawa , Momoko Nagai, Mamoru Kato, Shigehiro Yagishita , Tatsuhiro Shibata, 	tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients (submitted).[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
 
@@ -140,7 +145,9 @@ B. M. Kostishko, I. P. Puzov, Yuri S. Nagornov, Stabilization of Luminous Proper
 
 <a id="books"></a>
 
-#### MONOGRAPHS, TEXTBOOKS AND TEACHING AIDS
+[Back](#cont) 
+
+## MONOGRAPHS, TEXTBOOKS AND TEACHING AIDS
 
  Yu.S. Nagornov , Program "A simple mechanical model of an erythrocyte", Certificate of registration of a computer program RU 2017610364, 10.01.2017. Application No. 2016619299 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39358767).
 
@@ -182,10 +189,11 @@ I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zoloto
 
  Yu.S. Nagornov , Organization of mathematical operations, logical elements, and schemes, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058452).
 
-
 <a id="conf"></a>
 
-#### CONFERENCES
+[Back](#cont) 
+
+## CONFERENCES
 
  2024 - oral presentation: Iurii Nagornov “Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel”, Iurii Nagornov, 
 In: Arai, K. (eds) 
@@ -238,3 +246,5 @@ Proceedings of the 36th Annual Conference of the Japanese Society for Artificial
 [abstract](https://www.dpg-verhandlungen.de/year/2018/conference/berlin/part/dy/session/26/contribution/5)
 
  1999 - 2012: Yuri S. Nagornov Attendance with oral presentation and as invited presenter in domestic Russian conferences like "Silicon-2007, 2009, 2010", "Nanophotonics - 2002", "Radiation physics of solid state" (2001, 2007, 2010),  the conference of young scientists (Togliatti-2012) and many others with poster presentations.
+
+[Back](#cont) 

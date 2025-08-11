@@ -1,4 +1,13 @@
-## PROJECTS
+---
+title: "PROJECTS"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/projects
+venue: ""
+date: 2009--2025
+location: "Russia, Japan"
+---
+
   
   - **Period:** 2017-2026  
   **Topic:** [Cancer-cell evolution and tumor heterogeneity](https://www.ncc.go.jp/en/ri/division/bioinformatics/project/index.html#b)  

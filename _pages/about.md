@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+#### CURRENT POSITIONS
+
+**Chief Researcher**, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan (2020–2025)  
+**Specially Appointed Researcher**, National Cancer Center Japan, Division of Bioinformatics (2017–present)
+
+---
 
 #### RESEARCH INTERESTS
 
@@ -20,14 +26,6 @@ redirect_from:
     
 - Stochastic Modeling and Numerical Methods
     
-
----
-
-#### CURRENT POSITIONS
-
-**Chief Researcher**, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan (2020–2025)  
-**Specially Appointed Researcher**, National Cancer Center Japan, Division of Bioinformatics (2017–present)
-
 ---
 
 <a id="edu"></a>

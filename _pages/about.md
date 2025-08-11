@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-#### CURRENT POSITIONS
+## CURRENT POSITIONS
 
 **Chief Researcher**, National Institute of Advanced Industrial Science and Technology (AIST), Tokyo, Japan (2020–2025)  
 **Specially Appointed Researcher**, National Cancer Center Japan, Division of Bioinformatics (2017–present)
 
 ---
 
-#### RESEARCH INTERESTS
+## RESEARCH INTERESTS
 
 - Machine Learning and Kernel Methods
     
@@ -30,7 +30,7 @@ redirect_from:
 
 <a id="edu"></a>
 
-#### EDUCATION
+## EDUCATION
 
 **Ph.D. in Physics**, Ulyanovsk State University, Russia, 2002 (1998-2001)
 
@@ -38,7 +38,7 @@ redirect_from:
 
 ---
 
-#### SELECTED PUBLICATIONS
+## SELECTED PUBLICATIONS
 
 - **In total:** more 40 international papers (including papers in the Journals with impact factor more than 5), 
 more 90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian)
@@ -65,7 +65,7 @@ Computer Physics Communications, Vol. 254, September 2020, p.107260,
 
 <a id="software"></a>
 
-#### SOFTWARE
+## SOFTWARE
 
 - [MaxWiK](https://cran.r-project.org/web/packages/MaxWiK/index.html) - Machine Learning Method Based on Isolation Kernel Mean Embedding.
 
@@ -75,7 +75,7 @@ Computer Physics Communications, Vol. 254, September 2020, p.107260,
   
 ---
 
-#### RESEARCH PROJECTS (LEAD / KEY INVESTIGATOR)
+## RESEARCH PROJECTS (LEAD / KEY INVESTIGATOR)
 
 - _Personalized Oncology & Genomic Modeling_, National Cancer Cneter Japan, 2017–2026
     
@@ -87,7 +87,7 @@ Computer Physics Communications, Vol. 254, September 2020, p.107260,
 
 ---
 
-#### GRANTS & AWARDS
+## GRANTS & AWARDS
 
 - Principal Investigator, 6 Russian national projects (2012–2013)
 
@@ -106,7 +106,7 @@ Computer Physics Communications, Vol. 254, September 2020, p.107260,
 
 ---
 
-#### INTERNATIONAL ACTIVITIES
+## INTERNATIONAL ACTIVITIES
 
 - **Reviewer**: _Physica A_, _Data in Brief_ (Elsevier)
     
@@ -129,7 +129,7 @@ Computer Physics Communications, Vol. 254, September 2020, p.107260,
 
 ---
 
-#### TEACHING & MENTORSHIP
+## TEACHING & MENTORSHIP
 
 - Supervised undergraduate research (Russia, 2002–2012)
     
@@ -140,7 +140,7 @@ Computer Physics Communications, Vol. 254, September 2020, p.107260,
 
 ---
 
-#### LANGUAGES & SKILLS
+## LANGUAGES & SKILLS
 
 - Languages: Russian (native), English (fluent), Japanese (beginner)
     

@@ -3,7 +3,15 @@ permalink: /publications/
 title: "Publications"
 ---
 
-## ARTICLES
+<a id="cont"></a>
+
+[Articles](#pubs)  \\
+[Monographs, textbooks and teaching aids](#books)  \\
+[Conferences](#conf)  \\
+
+<a id="pubs"></a>
+
+#### ARTICLES
 
 Iurii Nagornov , Eisaku Furukawa , Momoko Nagai, Mamoru Kato, Shigehiro Yagishita , Tatsuhiro Shibata, 	tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients (submitted).[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
 
@@ -134,3 +142,109 @@ B. M. Kostishko, I. P. Puzov, Yuri S. Nagornov, Stabilization of Luminous Proper
  B. M. Kostishko, Sh. R. Atazhanov, I. P. Puzov, S. Ya. Solomatin, Yuri S. Nagornov, Heterogeneous Effect in Carbonized Porous Silicon, Technical Physics Letters, Vol. 26, N3, pp. 199-201, 2000. 
  [doi](https://link.springer.com/article/10.1134/1.1262790), 
  [paper](https://drive.google.com/file/d/1SPg1mju_63o6Q6IRC782jfFzGkFJqVvg/view?usp=drive_link)
+
+[Back](#cont) 
+
+<a id="books"></a>
+
+#### MONOGRAPHS, TEXTBOOKS AND TEACHING AIDS
+
+ Yu.S. Nagornov , Program "A simple mechanical model of an erythrocyte", Certificate of registration of a computer program RU 2017610364, 10.01.2017. Application No. 2016619299 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39358767).
+
+ Yu.S. Nagornov , Program for clustering signals of acoustic emission, Certificate of registration of a computer program RU 2017612279, 20.02.2017. Application No. 2016619260 dated 01.09.2016 (in Russian). [link](https://www.elibrary.ru/item.asp?id=39360830).
+
+ Yu.S. Nagornov , Development of technology and software for measuring intracellular pressure based on atomic force microscopy data, Report No. 14.574.21.0025 dated 17.06.2014. Ministry of Education and Science of the Russian Federation, 2015 (in Russian). [link](https://www.elibrary.ru/item.asp?id=25647937).
+
+ Yu.S. Nagornov , Modeling elements of betavoltaics on nickel-63 isotope, Ulyanovsk, 2015 (in Russian). [link](https://www.elibrary.ru/item.asp?id=23070588).
+
+ Yu.S. Nagornov , Modeling of betavoltaics elements on isotope Nickel-63, monograph, Ulyanovsk: SIMJET, 102 p, 2015 (in Russian). [link](https://elibrary.ru/item.asp?id=23070588).
+
+ Yu.S. Nagornov , Development of technology and software for measuring intracellular pressure based on atomic force microscopy data, Report No. 14.574.21.0025 dated 17.06.2014. Ministry of Education and Science of the Russian Federation, 2014 (in Russian). [link](https://www.elibrary.ru/item.asp?id=25647965).
+
+ Yu.S. Nagornov , Modeling elastic properties of blood cells, monograph, Saarbrucken: LAP Lambert Academic Publishing, 2013. 108 p (in Russian). [link](https://elibrary.ru/item.asp?id=20392265).
+
+ Yu.S. Nagornov , Radiation-stimulated current sources, monograph, Saarbrücken, 2013 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20286794).
+
+ Yu.S. Nagornov , The modeling techniques of atomic and radiation-stimulated processes in porous silicon, monograph, Togliatti: [TSU, 2012](https://elibrary.ru/item.asp?id=20286806), 175 p. (in Russian).
+
+ Yu.S. Nagornov , Self-organization of nanocrystals in the carbonized porous silicon, monograph, Saarbrucken: [LAP Lambert Academic Publishing, 165 p, 2012](https://elibrary.ru/item.asp?id=20286798). (in Russian)
+
+ Yu.S. Nagornov , Modern aspects of the application of the betavoltaic effect, Ulyanovsk, 2012 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20223481).
+
+ Yu.S. Nagornov , Study of biological objects using atomic force microscopy, tutorial, Tolyatti, 2012 (in Russian). [link](https://www.elibrary.ru/item.asp?id=20286804).
+
+A. I. Kuseelman, Yu. N. Basyrava, V. V. Svetukhin, B. B. Kostishko,  Yu.S. Nagornov , I. Yu. Matveeva, M. M. Dzhandzhgava, Nanotechnology in pediatrics: prospects for the use of atomic force microscopy for diagnostics, Questions of diagnostics in pediatrics, 2010. Vol. 2, No. 1, pp. 5-8 (in Russian). [link](https://www.elibrary.ru/contents.asp?id=33571781).
+
+V. V. Svetukhin, I. V. Razumovskaya, S. V. Bulyarsky, I. O. Zolotovsky,  Yu.S. Nagornov , S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, A. V. Zhukov, Introduction to nanotechnology. Module "Physics", methodological guide for an elective course for teachers of grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=22849400).
+
+I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zolotovsky,  Yu.S. Nagornov , S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, Introduction to nanotechnology, educational and methodological guide for the elective course in physics for teachers of grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058458).
+
+I. V. Razumovskaya, S. V. Bulyarsky, V. V. Svetukhin, N. V. Sharov, I. O. Zolotovsky,  Yu.S. Nagornov , S. G. Novikov, P. E. Lvov, A. S. Kadotskin, D. V. Kozlov, L. V. Vostretsova, Introduction to nanotechnology. Elective course in the physics program, tutorial for grades 10-11 of general education schools, Ulyanovsk, 2008 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058454).
+
+ Yu.S. Nagornov , Hardware means of computing technology: electronic tutorial course, Ulyanovsk, 2007 (in Russian). [link](https://www.elibrary.ru/item.asp?id=24286607).
+
+ Yu.S. Nagornov , Methodological manual for laboratory work on the course "Hardware means of computing technology", educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058451).
+
+ Yu.S. Nagornov , Principles of operation and architecture of microprocessors Intel 8080/8085 and x86 family, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058450).
+
+ Yu.S. Nagornov , Organization of mathematical operations, logical elements, and schemes, educational and methodological recommendations, Ulyanovsk, 2004 (in Russian). [link](https://www.elibrary.ru/item.asp?id=21058452).
+
+[Back](#cont) 
+
+<a id="conf"></a>
+
+#### CONFERENCES
+
+ 2024 - oral presentation: Iurii Nagornov “Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel”, Iurii Nagornov, 
+In: Arai, K. (eds) 
+[Intelligent Systems and Applications. IntelliSys 2024](https://saiconference.com/IntelliSys). 5-6 September, 2024. 
+[doi](https://link.springer.com/chapter/10.1007/978-3-031-66431-1_16), 
+[paper](https://drive.google.com/file/d/1vmIFfVJ6PNsZuqP3dmHvbLJQJd-6Vus9/view?usp=sharing)
+ 
+ 2023 - poster presentation:  Iurii Nagornov,  Application of machine learning method MaxWiK to the simulation of the clonal evolution of cancer cells. In: 
+ [The 82th annual meeting of Japanese Cancer Association](https://www.c-linkage.co.jp/jca2023/en/index.html), 
+ September 21-23, 2023, Pacific Convention Plaza Yokohama, Japan,
+ [Program, P-2363](https://www.c-linkage.co.jp/jca2023/en/dl/poster_day2.pdf).
+
+ 2023 - oral presentation: Iurii Nagornov,  Recurrence plot representation of points series during meta-sampling based on Maxima Weighted Isolation Kernel method. In: 
+Proceedings of the 10th International Symposium on Recurrence Plots 2023, August 28-30, 2023, The National Institute of Advanced Industrial Science and Technology, Tsukuba, Japan,
+ [Program](http://symposium.recurrence-plot.tk/?a=programme).
+
+ 2023 - poster presentation:  Iurii Nagornov,  Machine learning method based on the Maxima Weighted Isolation Kernel for the simulator of personalized cancer medicine. In: 
+ (https://supportoffice.jp/2023jca-aacr}{2nd JCA-AACR Precision Cancer Medicine International Conference 2023}, June 28-30, 2023, Kyoto Tokyu Hotel, Japan.
+
+ 2023 - poster presentation:  Iurii Nagornov,  Application of meta-sampling method based on Maxima Weighted Isolation Kernel to the genetic data for personalized cancer care. In: 
+[10th International Congress on Industrial and Applied Mathematics 2023](https://iciam2023.org), August 20-25, 2023, Waseda University, Tokyo, Japan, 
+[Program, Poster N 13261](https://iciam2023.org/accepted_ps) 
+
+ 2022 - oral presentation: Iurii Nagornov,  Overfitting Problem in the Approximate Bayesian Computation Method Based on Maxima Weighted Isolation Kernel. In: 
+Proceedings of the 36th Annual Conference of the Japanese Society for Artificial Intelligence, 2022, June 14 – June 17, Kyoto International Conference Center, 2S5-IS-2c-05 
+[abstract](https://confit.atlas.jp/guide/event/jsai2022/subject/2S5-IS-2c-05/tables?cryptoId=).
+
+ 2020 - oral presentation: Iurii Nagornov,  Jo Nishino, Mamoru Kato, tugHall: a tool to reproduce darwinian evolution of cancer cells for simulation-based personalized medicine. In: Bebis G., Alekseyev M., Cho H., Gevertz J., Rodriguez Martinez M. (eds) Mathematical and Computational Oncology. ISMCO 2020. Lecture Notes in Computer Science, vol 12508. Springer, Cham.
+[doi](https://doi.org/10.1007/978-3-030-64511-3_7), 
+[paper](https://drive.google.com/file/d/1YOIIjzN9ifQXzuAcMdG18EZtbtkY2f5X/view?usp=sharing)
+
+ 2019 - oral presentation: Iurii Nagornov,  Ryosuke Akashi, A Stochastic Non-empirical approach in the problem of the reaction path seeking, American Physical Society March Meeting 2019, Vol. 64, N2, C32.00006, March 4–8, 2019; Boston, Massachusetts. 
+[abstract](https://meetings.aps.org/Meeting/MAR19/Session/C32.6)
+
+ 2019 - poster presentation:  Yuri S. Nagornov, Ryosuke Akashi, Development of the non-empirical method of seeking diverse escape paths on the potential surface, Computational Sciences Workshop 2019, Tokyo, Japan, January, 2019. 
+
+ 2019 - oral presentation: Yuri S. Nagornov, Ryosuke Akashi, Stochastic Non-empirical approach to the reaction path seeking: applications to clusters and molecules, The 74th Annual Meeting of the Physical Society of Japan, 17a G215.9, Fukuoka, Japan, March, 2019
+[Program](https://w4.gakkai-web.net/jps_search/2019sp/data/html/program12.html)
+
+ 2018 - oral presentation: Yuri S. Nagornov, Ryosuke Akashi, Ab initio method to follow the optimal escape path from the minimum potential, 32nd Molecular Simulation Discussion Meeting, 318S, Tsukuba, Ibaraki, Japan, November, 2018.
+[Program](https://sympo.mol-sim.jp/mssj32/files/presen_program_2018.pdf)
+
+ 2018 - poster presentation:  Yuri S. Nagornov, Ryosuke Akashi, Seeking the high energy saddle points for argon cluster by stochastic non-empirical approach, 32nd Molecular Simulation Discussion Meeting, 121P, Tsukuba, Ibaraki, Japan, November, 2018.
+[Program](https://sympo.mol-sim.jp/mssj32/files/presen_program_2018.pdf)
+
+ 2018 - oral presentation:  Ryosuke Akashi, Yuri S. Nagornov, Hyperdynamics for non-stationary states, The 73th Annual Meeting of the Physical Society of Japan, 23pK703-11, Fukuoka, Japan, March, 2018
+[abstract](https://doi.org/10.11316/jpsgaiyo.73.1.0_2754).
+
+ 2018 - oral presentation: Yuri S. Nagornov, Ryosuke Akashi, Hyperdynamics approach to the non-equilibrium states coupled to the thermal bath, DPG Spring Meeting of the Condensed Matter Section together with the EPS, DY 26.5, Berlin, Germany, March 2018.
+[abstract](https://www.dpg-verhandlungen.de/year/2018/conference/berlin/part/dy/session/26/contribution/5)
+
+ 1999 - 2012: Yuri S. Nagornov Attendance with oral presentation and as invited presenter in domestic Russian conferences like "Silicon-2007, 2009, 2010", "Nanophotonics - 2002", "Radiation physics of solid state" (2001, 2007, 2010),  the conference of young scientists (Togliatti-2012) and many others with poster presentations.
+
+[Back](#cont) 

@@ -15,14 +15,15 @@ title: "Publications"
 
 Iurii Nagornov , Eisaku Furukawa , Momoko Nagai, Mamoru Kato, Shigehiro Yagishita , Tatsuhiro Shibata, 	tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients (submitted).[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
 
-Iurii Nagornov 'Cross-Recurrence Plots and Straightforward Hilbert Representation of Isolation Kernel',
-'Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries' in Springer Proceedings in Complexity.
-Springer, Cham. 2025 (accepted), 
-[doi](https://link.springer.com/book/9783031910616?srsltid=AfmBOoprtTOovq1sQyshmpK6cimcTfghCjEiUqhxLOr-CPFS_2kXIOl6),
-[accepted paper](https://drive.google.com/file/d/1Nuj702kjU1b2uMVtYCpjCmhm-74g4PSf/view?usp=sharing).
+Iurii Nagornov chapter 'Cross-Recurrence Plots and Straightforward Hilbert Representation of Isolation Kernel', 
+Springer Proceedings in Complexity 
+'Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries',
+Springer, Cham. 2025, pp.109-130. 
+[doi](https://link.springer.com/chapter/10.1007/978-3-031-91062-3_7),
+[accepted paper](https://drive.google.com/file/d/1FBhQje23DZKeyGcyJ0KnM9W7POEIsZrG/view?usp=sharing).
 
 Iurii Nagornov “Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel”, Iurii Nagornov, 
-In: Arai, K. (eds) Intelligent Systems and Applications. IntelliSys 2024. Lecture Notes in Networks and Systems, vol 1067, pp. 243-258. Springer, Cham. 
+In: Arai, K. (eds) Intelligent Systems and Applications. IntelliSys 2024. Lecture Notes in Networks and Systems, vol. 1067, pp. 243-258. Springer, Cham. 
 [doi](https://link.springer.com/chapter/10.1007/978-3-031-66431-1_16), 
 [paper](https://drive.google.com/file/d/1vmIFfVJ6PNsZuqP3dmHvbLJQJd-6Vus9/view?usp=sharing)
 

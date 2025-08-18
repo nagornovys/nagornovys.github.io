@@ -20,7 +20,7 @@ Springer Proceedings in Complexity
 'Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries',
 Springer, Cham. 2025, pp.109-130. 
 [doi](https://link.springer.com/chapter/10.1007/978-3-031-91062-3_7),
-[accepted paper](https://drive.google.com/file/d/1FBhQje23DZKeyGcyJ0KnM9W7POEIsZrG/view?usp=sharing).
+[paper](https://drive.google.com/file/d/1FBhQje23DZKeyGcyJ0KnM9W7POEIsZrG/view?usp=sharing).
 
 Iurii Nagornov “Sampling vs. Metasampling Based on Straightforward Hilbert Representation of Isolation Kernel”, Iurii Nagornov, 
 In: Arai, K. (eds) Intelligent Systems and Applications. IntelliSys 2024. Lecture Notes in Networks and Systems, vol. 1067, pp. 243-258. Springer, Cham. 

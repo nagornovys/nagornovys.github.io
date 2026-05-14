@@ -40,7 +40,7 @@
 more 90 papers in Russian, 5 patents, 4 monographs and 14 textbooks (in Russian)
 
 
-- Nagornov, Iu., et al. _tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients_. Springer Nature, npj Systems Biology and Applications,
+- Nagornov Iu., Furukawa E., Nagai M. et al. _tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients_. Springer Nature, npj Systems Biology and Applications,
 2026, May 13.[doi](https://doi.org/10.1038/s41540-026-00736-w), 
 [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
     

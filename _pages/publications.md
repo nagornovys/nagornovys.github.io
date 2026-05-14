@@ -13,7 +13,9 @@ title: "Publications"
 
 ## ARTICLES
 
-Iurii Nagornov , Eisaku Furukawa , Momoko Nagai, Mamoru Kato, Shigehiro Yagishita , Tatsuhiro Shibata, 	tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients (submitted).[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
+Nagornov Iu., Furukawa E., Nagai M. et al. _tugMedi: simulator of cancer-cell evolution for personalized medicine based on the genomic data of patients_. Springer Nature, npj Systems Biology and Applications,
+2026, May 13.[doi](https://doi.org/10.1038/s41540-026-00736-w), 
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.27.661855v1)
 
 Iurii Nagornov chapter 'Cross-Recurrence Plots and Straightforward Hilbert Representation of Isolation Kernel', 
 Springer Proceedings in Complexity 
